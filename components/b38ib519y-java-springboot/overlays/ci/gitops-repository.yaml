@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: b38ib519y-java-springboot-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/b38ib519y-java-springboot-gitops
